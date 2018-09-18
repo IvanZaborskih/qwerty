@@ -1,0 +1,6 @@
+D:\2курс, 1атта\Solution1\MyLib\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+D:\2курс, 1атта\Solution1\MyLib\bin\Debug\MyLib.dll
+D:\2курс, 1атта\Solution1\MyLib\bin\Debug\MyLib.pdb
+D:\2курс, 1атта\Solution1\MyLib\obj\Debug\MyLib.dll
+D:\2курс, 1атта\Solution1\MyLib\obj\Debug\MyLib.pdb
+D:\2курс, 1атта\Solution1\MyLib\obj\Debug\MyLib.csprojResolveAssemblyReference.cache

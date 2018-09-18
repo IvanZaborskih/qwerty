@@ -1,0 +1,9 @@
+D:\2курс, 1атта\Solution1\1.1.12(консоль)\bin\Debug\1.1.12(консоль).exe.config
+D:\2курс, 1атта\Solution1\1.1.12(консоль)\bin\Debug\1.1.12(консоль).exe
+D:\2курс, 1атта\Solution1\1.1.12(консоль)\bin\Debug\1.1.12(консоль).pdb
+D:\2курс, 1атта\Solution1\1.1.12(консоль)\bin\Debug\MyLib.dll
+D:\2курс, 1атта\Solution1\1.1.12(консоль)\bin\Debug\MyLib.pdb
+D:\2курс, 1атта\Solution1\1.1.12(консоль)\obj\Debug\1.1.12(консоль).csprojResolveAssemblyReference.cache
+D:\2курс, 1атта\Solution1\1.1.12(консоль)\obj\Debug\1.1.12(консоль).csproj.CoreCompileInputs.cache
+D:\2курс, 1атта\Solution1\1.1.12(консоль)\obj\Debug\1.1.12(консоль).exe
+D:\2курс, 1атта\Solution1\1.1.12(консоль)\obj\Debug\1.1.12(консоль).pdb
